@@ -1,0 +1,13 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
